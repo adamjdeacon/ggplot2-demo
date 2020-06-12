@@ -1,3 +1,4 @@
 install.packages(c(
-	"ggplot2"),
+	"ggplot2",
+	"tidyverse"),
     repos='https://cloud.r-project.org/')
